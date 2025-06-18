@@ -10,23 +10,23 @@ This project demonstrates some of the core data analysis and reporting tasks I c
 	•	Use functions like IF, VLOOKUP, XLOOKUP, TEXT, LEFT, RIGHT, TRIM, etc.
 	•	Apply Data Validation for error-proof input
 
- Data Analysis
+ #### Data Analysis
 	•	Use PivotTables to summarize and explore data
 	•	Create PivotCharts for interactive visual analysis
 	•	Filter, sort, and group data to identify trends and insights
 	•	Use formulas to calculate KPIs and performance metrics
 
-Data Visualization & Dashboards
+#### Data Visualization & Dashboards
 	•	Build clean and interactive dashboards using charts and slicers
 	•	Create dynamic reports with dropdowns and conditional formatting
 	•	Design visually appealing layouts for stakeholder presentation
 
-Power Query
+#### Power Query
 	•	Import and transform data from multiple sources
 	•	Merge, append, and reshape data tables
 	•	Automate repetitive data preparation steps
 
-Tools & Features Used:
+#### Tools & Features Used:
 	•	Excel Tables
 	•	PivotTables & PivotCharts
 	•	Power Query
