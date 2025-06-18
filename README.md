@@ -4,7 +4,7 @@ This project demonstrates some of the core data analysis and reporting tasks I c
 
 # What I Can Do with Excel:
 
-Data Cleaning & Preparation
+#### Data Cleaning & Preparation
 	•	Remove duplicates, blanks, and errors
 	•	Standardize formats (dates, text, numbers)
 	•	Use functions like IF, VLOOKUP, XLOOKUP, TEXT, LEFT, RIGHT, TRIM, etc.
